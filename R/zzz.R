@@ -1,0 +1,1 @@
+ouch <- function() .Call("ouch")

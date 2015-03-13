@@ -1,0 +1,1 @@
+PKG_CXXFLAGS=-fno-asynchronous-unwind-tables
