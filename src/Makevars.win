@@ -1,1 +1,2 @@
-PKG_CXXFLAGS=-fno-asynchronous-unwind-tables
+## Enabling this seems to fix things ...
+# PKG_CXXFLAGS=-fno-asynchronous-unwind-tables
