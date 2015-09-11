@@ -5,3 +5,5 @@ Authors@R: person("First", "Last", , "first.last@example.com", role = c("aut", "
 Description: What the package does (one paragraph)
 License: What license is it under?
 LazyData: true
+Imports: Rcpp
+LinkingTo: Rcpp
